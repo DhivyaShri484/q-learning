@@ -101,16 +101,17 @@ def q_learning(env, gamma=1.0, init_alpha=0.5,
 ```
 
 ## OUTPUT:
-OPTIMAL STATE VALUE FUNCTIONS:
+## OPTIMAL STATE VALUE FUNCTIONS:
 ![image](https://github.com/DhivyaShri484/q-learning/assets/94505585/f818132b-a55f-47cd-a174-2288822c2b8b)
 
-OPTIMAL ACTION VALUE FUNCTION:
+## OPTIMAL ACTION VALUE FUNCTION:
+
 ![image](https://github.com/DhivyaShri484/q-learning/assets/94505585/47da81fc-443d-4e45-b8b7-f1e1cc184eee)
 
-STATE VALUE FUNCTION OF MONTE CARLO METHOD:
+## STATE VALUE FUNCTION OF MONTE CARLO METHOD:
 ![image](https://github.com/DhivyaShri484/q-learning/assets/94505585/266ed882-98e3-48d4-97f2-5a7bbe05e645)
 
-STATE VALUE FUNCTION OF Q-LEARNING METHOD:
+## STATE VALUE FUNCTION OF Q-LEARNING METHOD:
 ![image](https://github.com/DhivyaShri484/q-learning/assets/94505585/9f002698-44f8-42b3-b17a-9bf03f8d1b86)
 
 
